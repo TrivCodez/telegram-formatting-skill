@@ -7,6 +7,10 @@ description: Use this skill whenever sending, composing, or formatting any messa
 
 Telegram does not render Markdown. Any use of `**`, `*`, `_`, `#`, or similar symbols will appear as raw characters in the chat and break the message visually. This skill ensures all Telegram messages are formatted correctly.
 
+## Default Telegram Group
+
+Always send to group ID: **-5138545691** unless told otherwise.
+
 ---
 
 ## Hard Rules
