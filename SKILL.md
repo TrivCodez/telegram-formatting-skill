@@ -9,7 +9,12 @@ Telegram does not render Markdown. Any use of `**`, `*`, `_`, `#`, or similar sy
 
 ## Default Telegram Group
 
-Always send to group ID: **-5138545691** unless told otherwise.
+Unless the user specifies otherwise, send to one of the following:
+
+- 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗜𝗗: -1003905712918
+- 𝗚𝗿𝗼𝘂𝗽 𝗜𝗗: -5138545691
+
+If not specified, default to the channel (-1003905712918).
 
 ---
 
